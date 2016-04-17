@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/kimiliu1992/big_data_d3_lab",
+  "description": "fgjsdklfg",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
